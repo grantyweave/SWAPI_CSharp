@@ -36,17 +36,25 @@ Here's an example of what the output might look like:
 
 List of Planets from SWAPI:
 
-Name: Tatooine
+Tatooine
 
-Climate: arid
+Alderaan
 
-Terrain: desert
+Yavin IV
 
-Name: Alderaan
+Hoth
 
-Climate: temperate
+Dagobah
 
-Terrain: grasslands, mountains
+Bespin
+
+Endor
+
+Naboo
+
+Coruscant
+
+Kamino
 
 ## Customization
 
