@@ -34,28 +34,19 @@ The information will be printed to the console.
 
 Here's an example of what the output might look like:
 
+```plaintext
 List of Planets from SWAPI:
-
 Tatooine
-
 Alderaan
-
 Yavin IV
-
 Hoth
-
 Dagobah
-
 Bespin
-
 Endor
-
 Naboo
-
 Coruscant
-
 Kamino
-
+```
 ## Customization
 
 You can customize this application by modifying the code in the `Program.cs` file. For example, you can change the SWAPI URL or adapt the data model to retrieve and display additional planet information.
