@@ -1,0 +1,17 @@
+C:\git\SWAPI-c#\bin\Debug\net7.0\SWAPI-c#.exe
+C:\git\SWAPI-c#\bin\Debug\net7.0\SWAPI-c#.deps.json
+C:\git\SWAPI-c#\bin\Debug\net7.0\SWAPI-c#.runtimeconfig.json
+C:\git\SWAPI-c#\bin\Debug\net7.0\SWAPI-c#.dll
+C:\git\SWAPI-c#\bin\Debug\net7.0\SWAPI-c#.pdb
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.AssemblyInfoInputs.cache
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.AssemblyInfo.cs
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.csproj.CoreCompileInputs.cache
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.dll
+C:\git\SWAPI-c#\obj\Debug\net7.0\refint\SWAPI-c#.dll
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.pdb
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.genruntimeconfig.cache
+C:\git\SWAPI-c#\obj\Debug\net7.0\ref\SWAPI-c#.dll
+C:\git\SWAPI-c#\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.csproj.AssemblyReference.cache
+C:\git\SWAPI-c#\obj\Debug\net7.0\SWAPI-c#.csproj.CopyComplete
