@@ -1,6 +1,6 @@
 # SWAPI Planets Console App
 
-The SWAPI Planets Console App is a simple C# application that retrieves and prints a list of planets from the Star Wars API (SWAPI). It uses the SWAPI API to fetch data and display planet information in the console.
+The SWAPI Planets Console App is a simple C# application that retrieves and prints a list of planets from the Star Wars API (SWAPI). It uses the SWAPI API to fetch data and display the planets in the console.
 
 ## Prerequisites
 
@@ -22,13 +22,7 @@ Before running this application, make sure you have the following prerequisites 
 
 ## Usage
 
-When you run the SWAPI Planets Console App, it will make an HTTP request to SWAPI to fetch a list of planets and display the following information for each planet:
-
-- Name
-- Climate
-- Terrain
-
-The information will be printed to the console.
+When you run the SWAPI Planets Console App, it will make an HTTP request to SWAPI to fetch the list of planets and display them.
 
 ## Example Output
 
