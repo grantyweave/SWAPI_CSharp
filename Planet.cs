@@ -1,4 +1,3 @@
-
 namespace swapi_csharp
 {
     public class Planet

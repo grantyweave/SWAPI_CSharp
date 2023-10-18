@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\SWAPI-c#\\SWAPI-c#.csproj": {}
+    "c:\\git\\swapi_csharp\\SWAPI-c#.csproj": {}
   },
   "projects": {
-    "C:\\git\\SWAPI-c#\\SWAPI-c#.csproj": {
+    "c:\\git\\swapi_csharp\\SWAPI-c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\SWAPI-c#\\SWAPI-c#.csproj",
+        "projectUniqueName": "c:\\git\\swapi_csharp\\SWAPI-c#.csproj",
         "projectName": "SWAPI-c#",
-        "projectPath": "C:\\git\\SWAPI-c#\\SWAPI-c#.csproj",
+        "projectPath": "c:\\git\\swapi_csharp\\SWAPI-c#.csproj",
         "packagesPath": "C:\\Users\\grant\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\SWAPI-c#\\obj\\",
+        "outputPath": "c:\\git\\swapi_csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grant\\AppData\\Roaming\\NuGet\\NuGet.Config",

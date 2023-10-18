@@ -5,7 +5,6 @@ class Program
 {
     static async Task Main()
     {
-        // Define the SWAPI URL for planets.
         string swapiUrl = "https://swapi.dev/api/planets/";
 
         using (var httpClient = new HttpClient())

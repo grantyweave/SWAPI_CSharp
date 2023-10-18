@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AyuJOZStCnU1/qlQABYj8nkliDhfNHhhRgZuqdHFuyHi6QFAkxrsNi2J7dsR0tECUQeVeaE37wjrss+bQRAeVA==",
+  "dgSpecHash": "xYLCDDHLA6vDqUNSCvtXAvvICuV29rtA9eHNbAbPf/XdzvARnQR8K5xC/YFDfAEvMH3YB0KLL4KOLe972JTxFA==",
   "success": true,
-  "projectFilePath": "C:\\git\\SWAPI-c#\\SWAPI-c#.csproj",
+  "projectFilePath": "c:\\git\\swapi_csharp\\SWAPI-c#.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grant\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
