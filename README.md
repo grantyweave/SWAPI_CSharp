@@ -35,12 +35,17 @@ The information will be printed to the console.
 Here's an example of what the output might look like:
 
 List of Planets from SWAPI:
+
 Name: Tatooine
+
 Climate: arid
+
 Terrain: desert
 
 Name: Alderaan
+
 Climate: temperate
+
 Terrain: grasslands, mountains
 
 ## Customization
